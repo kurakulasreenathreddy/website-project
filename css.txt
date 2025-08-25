@@ -19,7 +19,7 @@
 header {
   width: 100%;
   min-height: 120vh;
-  background-image: url(home-pictures/IMG_20231009_135417_484.jpg);
+  background-image: url(pictures/IMG_20231009_135417_484.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -145,4 +145,5 @@ button {
     font-size: 16px;
   }
 }
+
 
